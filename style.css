@@ -1,0 +1,26 @@
+body{
+    background-color: #68e364;
+}
+
+form label {
+    display: inline-block;
+    width: 100px;
+}
+
+.error {
+    color: red;
+    margin-left: 5px;
+}
+
+label.error {
+    display: inline;
+}
+
+h2{
+    margin: 15px 0 15px 15px;
+    color: #320536;
+}
+
+#first_form, #second_form {
+    margin: 5px 0 10px 15px;
+}
